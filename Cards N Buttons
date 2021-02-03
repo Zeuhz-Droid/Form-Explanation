@@ -1,0 +1,126 @@
+https://code.sololearn.com/WvVxiWjLs2CD/?ref=app    - #link to code in sololearn app
+
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <meta name="viewport" comtent="width=device-width, initial-scale=1.0">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    
+
+        <title>Cards and Buttons</title>
+
+    </head>
+
+    
+
+    <body>
+
+        <h1 class="display-3 text-success text-center m-4">
+
+            Free Courses
+
+        </h1>
+
+        <div class="container">
+
+            <div class="row justify-content-evenly">
+
+               <div class="col-5 minicard">
+
+                   <img class="minicard-img" src="https://dl.dropbox.com/s/dht1vplvct6wssg/photo-1593642702821-c8da6771f0c6.jpeg?dl=0" alt="a laptop pic">
+
+                   <h6 class="minicard-header">Web Design</h6>
+
+                   <span class="minicard-text">47,000 graduates</span>
+
+                   <button class="btn btn-danger minicard-btn" type="submit"
+
+>Select</button>              
+
+               </div>
+
+               
+
+               
+
+               <div class="col-5 minicard">
+
+                   <img class="minicard-img" src="https://dl.dropbox.com/s/inorp883lbbnzfc/photo-1612218381755-47c73d4f5e47.jpeg?dl=0" alt="boot pic">
+
+                   <h6 class="minicard-header">Hiking</h6>
+
+                   <span class="minicard-text">2,300 graduates</span>
+
+                   <button class="btn btn-danger minicard-btn" type="submit"
+
+>Select</button>              
+
+               </div>
+
+            </div>
+
+            
+
+            <div class="row justify-content-evenly">
+
+               <div class="col-5 minicard">
+
+                   <img class="minicard-img" src="https://dl.dropbox.com/s/uqlhbvz1lx43aav/photo-1569389397653-c04fe624e663.jpeg?dl=0" alt="a laptop pic">
+
+                   <h6 class="minicard-header">Smart-phone photography</h6>
+
+                   <span class="minicard-text">789,512 graduates</span>
+
+                   <button class="btn btn-danger minicard-btn" type="submit"
+
+>Select</button>              
+
+               </div>
+
+               
+
+               
+
+               <div class="col-5 minicard">
+
+                   <img class="minicard-img" src="https://dl.dropbox.com/s/inorp883lbbnzfc/photo-1612218381755-47c73d4f5e47.jpeg?dl=0" alt="boot pic">
+
+                   <h6 class="minicard-header">Hiking</h6>
+
+                   <span class="minicard-text">2,300 graduates</span>
+
+                   <button class="btn btn-danger minicard-btn" type="submit"
+
+>Select</button>              
+
+               </div>
+
+            </div>
+
+            
+
+        </div>
+
+        
+
+        
+
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+
+    </body>
+
+</html>
